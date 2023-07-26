@@ -2,4 +2,4 @@
 # RoMON GNS3 MikroTik
 # by @themmfuad
 
-![network-diagram](https://github.com/themmfuad/MTCNA-Practice-Projects/blob/main/RoMON-GNS3-MikroTik-MTCNAPP1/RoMON-GNS3-MikroTik-MTCNAPP1-by-themmfuad.pdf "")
+<embed src="https://github.com/themmfuad/MTCNA-Practice-Projects/blob/main/RoMON-GNS3-MikroTik-MTCNAPP1/RoMON-GNS3-MikroTik-MTCNAPP1-by-themmfuad.pdf" type="application/pdf">
